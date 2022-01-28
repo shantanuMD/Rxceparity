@@ -160,9 +160,9 @@ if(today):
         banner='figlet Rxce 7.o '
         print("Hi!! Thanks for buying Life time the hack")
         print("----------Your play time-----------")
-        print(" 10:20 AM- 10:35 AM")
-        print(" 12:00 AM- 12:35 AM")
-        print(" 03:00 AM- 03:35 AM")
+        print(" 11:00 AM- 11:35 AM")
+        print(" 12:00 PM- 12:35 PM")
+        print(" 03:00 PM- 03:35 PM")
         print(" 08:00 AM- 08:35 AM")
         print(" 11:00 AM- 12:35 AM")
         print("Please play on the given time, and ")
